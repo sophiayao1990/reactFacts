@@ -1,0 +1,25 @@
+.main {
+    background: url('../images/reactjsIcon2.png') no-repeat;
+    background-position: right 50%;
+    background-color: #282D35;
+    padding: 57px 27px;
+    color: white;
+    height: 450px;
+}
+.main > ul {
+    max-width: 390px;
+    padding-left: 40px;
+    padding-top: 46px;
+    line-height: 2;
+}
+
+ul li::marker {
+    font-size: 1.4em;
+    color: #61DAFB;
+}
+
+
+
+
+
+  

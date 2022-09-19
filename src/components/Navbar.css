@@ -1,0 +1,22 @@
+
+.nav {
+    background-color: #21222A;
+    color: #61DAFB;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+.title {
+    /* background-color: brown; */
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+}
+.title>h3 {
+    color: #61DAFB;
+    margin-left: 5px;
+}
+.nav>h4 {
+    color: white;
+}
