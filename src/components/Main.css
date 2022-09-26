@@ -18,6 +18,12 @@ ul li::marker {
     color: #61DAFB;
 }
 
+.light {
+    background-color: #fff;
+    color: #282D35;
+}
+
+
 
 
 

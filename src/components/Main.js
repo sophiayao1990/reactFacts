@@ -1,8 +1,8 @@
 import './Main.css'
 
-function Main() {
+function Main(props) {
     return (
-        <main className='main'>
+        <main className={props.lightMode? 'main light' : 'main'}>
             <h1>Fun facts about React</h1>
             <ul>
                 <li>Was first released in 2013</li>
